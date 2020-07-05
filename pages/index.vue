@@ -1,11 +1,16 @@
 <template>
-  <div class="my_container items-center">
-    <div class="grid grid-cols-2">
-      <div class="flex items-center">
-        <p class="text-5xl font-bold  flex items-center">PISET</p>
+  <div class="px-24">
+    <div class="grid grid-cols-2 gap-4 pt-24">
+      <div class="text-6xl font-black leading-none">
+        <p>Piset</p>
+        <p>Heang.</p>
       </div>
-      <div>
-        <p>-Introduction</p>
+      <div class="font-black text-white">
+        <p class="text-6xl font-black text-white">Introduction</p>
+        <br>
+        <p class="text-4xl">Web Design, Web Deverlopment with VUE.JS</p>
+        <br>
+        <a class="text-yellow-500">My Story</a>
       </div>
     </div>
   </div>
