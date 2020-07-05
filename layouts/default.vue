@@ -40,11 +40,14 @@ html {
   background: url('../assets/hero-img.jpeg') no-repeat 50% 50%;
   background-size: cover;
 }
-
 *,
 *::before,
 *::after {
   box-sizing: border-box;
   margin: 0;
+}
+.pro_container {
+  padding: 0 6%;
+  height: auto;
 }
 </style>
