@@ -68,11 +68,11 @@ export default {
   text-transform: uppercase;
   font-size: 48px;
 }
-.wrapper {
+/* .wrapper {
   position: fixed;
   width: 100%;
   height: 100vh;
-}
+} */
 .navbar {
   box-sizing: border-box;
   position: fixed;
